@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{749E4D34-0FE9-4890-91BD-24F76E142BAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesPizza", "RazorPagesPizza\RazorPagesPizza.csproj", "{4B5CCC1F-F1D7-4285-8875-D2EABAF3ED61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{749E4D34-0FE9-4890-91BD-24F76E142BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{749E4D34-0FE9-4890-91BD-24F76E142BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{749E4D34-0FE9-4890-91BD-24F76E142BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B5CCC1F-F1D7-4285-8875-D2EABAF3ED61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5CCC1F-F1D7-4285-8875-D2EABAF3ED61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5CCC1F-F1D7-4285-8875-D2EABAF3ED61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5CCC1F-F1D7-4285-8875-D2EABAF3ED61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
